@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Snehil</h1>
-<h3 align="center">Motivated software developer and ML enthusiast who is highly energetic, outgoing and detail-oriented. Handles multiple responsibilities simultaneously while providing exceptional adaptability. Quickly learns and masters new concepts and skills. Passionate about Machine Learning and Artificial Intelligence</h3>
+<h1 align="center">Hey!!, I'm Snehil Kumar Singh</h1>
+<h3 align="center">ML enthusiast and driven software engineer who is incredibly vivacious, gregarious, and meticulous. demonstrates excellent versatility when managing numerous tasks at once. quickly picks up new knowledge and abilities. enthusiastic about artificial intelligence and machine learning</h3>
 
 - 🌱 I’m currently learning **Transliteration,Machine Translation,Tranformers,Spacey**
 
